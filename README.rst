@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdbortz%2Fdjango.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdbortz%2Fdjango?ref=badge_shield)
+
 ======
 Django
 ======
@@ -52,3 +54,7 @@ Supporting the Development of Django
 Django's development depends on your contributions. 
 
 If you depend on Django, remember to support the Django Software Foundation: https://www.djangoproject.com/fundraising/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdbortz%2Fdjango.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdbortz%2Fdjango?ref=badge_large)
